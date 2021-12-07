@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheetalarya19.
-- 👀 I’m interested in learning about new Technologies.
+- 👀 I’m interested in learning Data Science and Frontend development.
 - 🌱 I’m currently learning Android Development and Website designs.
 - 💞️ I’m looking to collaborate on Android Projects.
 - 📫 you can contact me on my instagram username: sheetallaryaa.
